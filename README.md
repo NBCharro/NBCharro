@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @NBCharro
-- 👀 I’m interested in front-end developer
-- 🌱 I’m currently learning Javascript, React, NodeJS, Python and mySQL
+- 👀 I’m interested in front-end and back-end developer
+- 🌱 I’m currently learning Javascript, React, NodeJS, Python, Java and SQL
+- 🧑‍🎓 Student of "Web Application Development"
 - 📫 How to reach me by my web: www.nbcharro.com
