@@ -1,5 +1,5 @@
 - 👋 Hola, soy Nelson
-- 👀 Estoy interesado en desarrollador frontend y backend
+- 👀 Estoy interesado en desarrollo backend y frontend
 - 🌱 Actualmente estoy aprendiendo NodeJS, MongoDB y PHP
-- 🧑🎓 Estudiante de "Desarrollo de Aplicaciones Web"
+- 🎓 Estudiante de "Desarrollo de Aplicaciones Web"
 - 📫 Puedes ver mi porfolio en www.nbcharro.com
