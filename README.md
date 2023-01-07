@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NBCharro
-- 👀 I’m interested in front-end and back-end developer
-- 🌱 I’m currently learning Javascript, React, NodeJS, Python, Java, SQL and PHP
-- 🧑‍🎓 Student of "Web Application Development"
-- 📫 How to reach me by my web: www.nbcharro.com
+- 👋 Hola, soy Nelson
+- 👀 Estoy interesado en desarrollador frontend y backend
+- 🌱 Actualmente estoy aprendiendo NodeJS, MongoDB y PHP
+- 🧑🎓 Estudiante de "Desarrollo de Aplicaciones Web"
+- 📫 Puedes ver mi porfolio en www.nbcharro.com
