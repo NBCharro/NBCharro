@@ -10,7 +10,7 @@ Cuento con un Ciclo Formativo Superior de Desarrollo de Aplicaciones Web, lo que
 
 # 📫 Mi portfolio
 
-Puedes ver algunos de mis proyectos en mi portfolio en línea, al cual puedes acceder a través de la siguiente dirección: www.web.com.
+Puedes ver algunos de mis proyectos en mi portfolio en línea, al cual puedes acceder a través de la siguiente dirección: www.nbcharro.com.
 # 👀 ¿Hablamos?
 
 Si tienes algún proyecto en mente o si crees que mi perfil encaja con lo que buscas, no dudes en contactar conmigo. Estoy siempre abierto a nuevas oportunidades y desafíos.
